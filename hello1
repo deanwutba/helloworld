@@ -1,0 +1,6 @@
+$ touch hello1
+$ git add hello1
+$ git commit -m "add hello1 for mark."
+[mybranch1 f46a284] add hello1 for mark.
+ 0 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 hello1
